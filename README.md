@@ -1,4 +1,4 @@
-Download the code if not , download the .rar and extract open this file in Eclipse
+Download the code if not,download the .rar and extract open this file in Eclipse
 
 Download the ADVANCED REST client to test API
 
